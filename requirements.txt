@@ -1,0 +1,11 @@
+pandas
+numpy
+nltk
+tweet-preprocessor
+keras
+streamlit
+scikit-learn
+gensim
+pyLDAvis
+bertopic
+textblob
